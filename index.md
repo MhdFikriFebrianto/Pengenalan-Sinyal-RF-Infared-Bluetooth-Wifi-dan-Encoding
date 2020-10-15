@@ -22,6 +22,7 @@ Penetapan Jalur atau spektrum frekuensi radio yang menentukan berguna untuk meng
 
 ## Macam Jenis Frekuensi Radio
 ![Image](rf.jpg)
+
 Untuk kehidupan sehari hari di beberapa peralatan yang digunakan, ada beberapa jenis frekuensi radio yang paling banyak digunakan, yakni:
 Pengertian Elektromagnetik Macam Jenis, Sifat dan Sumbernya
 Very Low Frequency VLF: Frekuensi <30 kHz dengan panjang gelombang >10 km.
@@ -45,6 +46,7 @@ Di lingkungan terbuka yakni tidak terdapat rintangan, maka sinyal radio frekuens
 
 ## WI-FI  
  Wi-Fi adalah sebuah teknologi terkenal yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi. Wi-Fi Alliance mendefinisikan Wi-Fi sebagai "produk jaringan wilayah lokal nirkabel (WLAN) apapun yang didasarkan pada standar Institute of Electrical and Electronics Engineers (IEEE) 802.11". Meski begitu, karena kebanyakan WLAN zaman sekarang didasarkan pada standar tersebut, istilah "Wi-Fi" dipakai dalam bahasa Inggris umum sebagai sinonim "WLAN".
+ 
  ![Image](wifi.jpg)
 
 Sebuah alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video, telepon pintar, tablet, atau pemutar audio digital) dapat terhubung dengan sumber jaringan seperti Internet melalui sebuah titik akses jaringan nirkabel. Titik akses (atau hotspot) seperti itu mempunyai jangkauan sekitar 20 meter (65 kaki) di dalam ruangan dan lebih luas lagi di luar ruangan. Cakupan hotspot dapat mencakup wilayah seluas kamar dengan dinding yang memblokir gelombang radio atau beberapa mil persegi — ini bisa dilakukan dengan memakai beberapa titik akses yang saling tumpang tindih.
@@ -69,6 +71,7 @@ Jalur akses gratis dapat digunakan oleh orang tak dikenal dan berbahaya untuk me
 
 ## BLUETOOTH
 Bluetooth adalah spesifikasi industri untuk jaringan kawasan pribadi (personal area networks atau PAN) tanpa kabel. Bluetooth menghubungkan dan dapat dipakai untuk melakukan tukar-menukar informasi di antara peralatan-peralatan. Spesifiksi dari peralatan Bluetooth ini dikembangkan dan didistribusikan oleh kelompok Bluetooth Special Interest Group. Bluetooth beroperasi dalam pita frekuensi 2,4 Ghz dengan menggunakan sebuah frequency hopping traceiver yang mampu menyediakan layanan komunikasi data dan suara secara real time antara host-host bluetooth dengan jarak terbatas.Kelemahan teknologi ini adalah jangkauannya yang pendek dan kemampuan transfer data yang rendah.
+
 ![Image](bluetooth.jpg)
 
  Kelebihan Bluetooth :
@@ -105,6 +108,7 @@ Seperti dikatakan di atas, banyak ponsel keluaran terbaru yang tidak dilengkapi 
 
 ## Encoding
 ![Image](encoding.gif)
+
 Kode atau password dalam komunikasi adalah aturan untuk mengubah suatu informasi(sebagai contoh, suatu surat, kata, atau frasa) menjadi bentuk atau representasi lain, yang tidakharus dalam bentuk yang sama. Dalam komunikasi dan pemrosesan informasi, pengkodean atau penyandian (encoding) adalah proses konversi informasi dari suatu sumber (objek)menjadi data, yang selanjutnya dikirimkan ke penerima atau pengamat, seperti pada sistem pemrosesan data.
 
 Pengertian encoding dalam komunikasi berarti tindakan pemberian arti simbol-simbol pada pemikiran. Misalnya: memutuskan kata kata mana yang akan dikatakan atau dituliskan.Proses penyandian adalah tindakan pemilihan simbol-simbol untuk pemikiran. Penegrtian laindari encoding itu sendiri adalah proses untuk mengubah sinyal ke dalam bentuk yangdioptimasi untuk keperluan komunikasi data dan penyimpanan data. Kedua hal inilah yang saling mendukung untuk mengubah bentuk sinyal sehingga bisa disalurkan dari pengirim ke penerima. Dalam hal modulasi, komunikasi data ada yang menggunakan sinyal digital. Tetapikomunikasi ini memiliki kelemahan yaitu jarak tempuh yang tidak terlalu besar akibat pengaruh noise berupa redaman yang terjadi pada media transmisi. Sedangkan komunikasi datamenggunakan sinyal analog jarak tempuhnya akan menjadi lebih besar.
