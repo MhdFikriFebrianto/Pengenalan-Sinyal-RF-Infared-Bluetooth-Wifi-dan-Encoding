@@ -21,8 +21,8 @@ Spektrum frekuensi radio merupakan susunan dari pita frekuensi radio yang memili
 Penetapan Jalur atau spektrum frekuensi radio yang menentukan berguna untuk menghindari terjadinya gangguan atau interference serta untuk menetapkan protokol untuk keserasian antara pemancar dan juga penerima.
 
 ## Macam Jenis Frekuensi Radio
-Untuk kehidupan sehari hari di beberapa peralatan yang digunakan, ada beberapa jenis frekuensi radio yang paling banyak digunakan, yakni:
 ![Image](rf.jpg)
+Untuk kehidupan sehari hari di beberapa peralatan yang digunakan, ada beberapa jenis frekuensi radio yang paling banyak digunakan, yakni:
 Pengertian Elektromagnetik Macam Jenis, Sifat dan Sumbernya
 Very Low Frequency VLF: Frekuensi <30 kHz dengan panjang gelombang >10 km.
 Low Frequency LF: Frekuensi 30 – 300 kHz dengan panjang gelombang 1 – 10 km.
@@ -89,6 +89,8 @@ Jalur akses gratis dapat digunakan oleh orang tak dikenal dan berbahaya untuk me
 
 ##  INFRARED
 Infrared (IR) cahaya adalah radiasi elektromagnetik dengan panjang gelombang lebih panjang daripada cahaya tampak, membentang dari tepi merah nominal dari spektrum yang terlihat pada 0,74 mikrometer (pM) menjadi 300 pM. Rentang panjang gelombang sesuai dengan rentang frekuensi sekitar 1-400 THz, dan termasuk sebagian besar radiasi termal yang dipancarkan oleh benda-benda di dekat suhu kamar. Cahaya inframerah yang dipancarkan atau diserap oleh molekul ketika mereka mengubah rotasi-getaran gerakan mereka. Adanya radiasi inframerah pertama kali ditemukan pada 1800 oleh astronom William Herschel.
+
+
 ![Image](infrared.jpg)
 
 Kelebihan Infrared :
